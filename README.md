@@ -1,8 +1,11 @@
 appactivitydemos
 ================
+# Overview
 Just some demos showing how to write app activity to Google+.
 
-JavaScript
+# Usage
+
+## JavaScript
 First create a client ID for your application by navigating to:
   https://code.google.com/apis/console
 
