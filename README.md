@@ -6,7 +6,7 @@ Just some demos showing how to write app activity to Google+.
 # Usage
 
 To run the demo, you need to set up API access to Google+, configure the app,
-and finally run it. I'll add more languages as I find time.
+and finally run it. More languages will be added over time.
 
 ## JavaScript
 
