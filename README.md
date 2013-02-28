@@ -16,4 +16,5 @@ created.
 3. To run the demo, just start up a web server on the appropriate port, for example:
 
     cd javascript
+
     python -m SimpleHTTPServer 8000
