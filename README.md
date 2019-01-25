@@ -1,3 +1,5 @@
+**Notice** [Google+ API is shutting down on March 7th, 2019](https://developers.google.com/+/api-shutdown).
+
 appactivitydemos
 ================
 # Overview
